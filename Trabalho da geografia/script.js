@@ -58,7 +58,7 @@ const questions = [
         answers: [
             { text: "Permitiu que os paises membros terem uma relação melhor com a China", correct: false},
             { text: "Permitiu uma melhora na economia de paises membros da OMC", correct: false},
-            { text: "Rompeu com o isolacionismo e teve desenvolvimento econômico", correct: true},
+            { text: "A entrada da China garantiu maior possibilidade de exportação e acordos comerciais", correct: true},
             { text: "Tinham como objetivo de taxar as exportações e importações da China", correct: false},
         ]
     },
